@@ -97,14 +97,12 @@ AES-256 algoritması, güvenli bir şekilde veriyi şifrelemek için yaygın ola
 
 
 
-
-
-
 ## Lisans
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
+
 
 
 
